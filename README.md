@@ -2,6 +2,8 @@
 
 I'm a senior software engineer at Dej and a student of artificial intelligence at Iran University of Science and Technology.
 
+You can find some of the open source projects that I have contributed to pinned below:
+
 
 
 <!--
