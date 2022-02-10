@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a senior software engineer at Dej and a master student of artificial intelligence at Iran University of Science and Technology.
+
+
+
 <!--
 **ATheCoder/athecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
