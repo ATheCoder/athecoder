@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a senior software engineer at Dej and a master student of artificial intelligence at Iran University of Science and Technology.
+I'm a senior software engineer at Dej and a student of artificial intelligence at Iran University of Science and Technology.
 
 
 
