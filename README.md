@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a senior software engineer at Dej and a student of artificial intelligence at Iran University of Science and Technology.
+I'm a senior software engineer at Dej and a mater's student of Artificial Intelligence at Iran University of Science and Technology.
 
-You can find some of the open source projects that I have contributed to pinned below:
+Below, you can find some of the open source projects that I have contributed to:
 
 
 
