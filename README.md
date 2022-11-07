@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a senior software engineer at Pellonia and a master's student of Artificial Intelligence at Iran University of Science and Technology.
+I'm a senior software engineer at Pellonia.
 
 Below, you can find some of the open source projects that I have contributed to:
 
