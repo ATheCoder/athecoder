@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a senior software engineer at Pellonia.
-
 Below, you can find some of the open source projects that I have contributed to:
 
 
